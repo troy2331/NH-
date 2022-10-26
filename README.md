@@ -5,6 +5,6 @@
 #### 결선 : 데이터 인사이트와 서비스 최종 발표 2021. 11. 19~ 2021. 11. 25
 
 주식 보유기간 예측 score 1st  
-새로운 서비스 제안 최종 순위 2st  
+새로운 서비스 제안 최종 순위 2nd  
 대회 정보 
 https://dacon.io/competitions/official/235798/leaderboard 
